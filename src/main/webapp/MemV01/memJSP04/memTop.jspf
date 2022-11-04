@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+    <title></title>
+ <link rel="stylesheet" href="memCss.css">
+</head>
+
+<body>
+
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="memMain.jsp">Main</a></li>
+                    <li><a href="memLoginJSP04.jsp">Login</a></li>
+                    <li><a href="memInsJSP04.jsp">Insert</a></li>
+                    <li><a href="memUdtJSP04.jsp">Update</a></li>
+                    <li><a href="memDelJSP04.jsp">Delete</a></li>
+                    <li><a href="memSelJSP04.jsp">Select</a></li>
+                </ul>
+            </nav>
+        </header>
+
+  
+
+</body>
+</html>

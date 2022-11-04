@@ -1,0 +1,71 @@
+table {
+    width: 500px;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Sans Ms';
+}
+
+.row_left {
+    width: 100px;
+}
+
+.row_right {
+    vertical-align: middle;
+    padding: 2px 2px;
+}
+
+.top {
+    background-color: gray;
+    font-size: 20px;
+    font-family: 'Comic Sans Ms';
+    color: white;
+    height: 40px;
+}
+
+.col_02 {
+    background-color: rgba(255, 255, 255, 0.771);
+    font-size: 18px;
+    font-family: 'Comic Sans Ms';
+    color: gray;
+    text-align: center;
+}
+
+.col_01 {
+    background-color: white;
+    font-size: 18px;
+    font-family: 'Comic Sans Ms';
+    color: gray;
+    text-align: center;
+}
+
+.bottom {
+    background-color: gray;
+    text-align: center;
+
+}
+
+.btn {
+    background-color: gray;
+    color: white;
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    font-family: 'Comic Sans Ms';
+}
+
+.text_field {
+    border: 1px solid gray;
+    width: 90%;
+    height: 90%;
+    font-family: 'Comic Sans Ms';
+    padding: 10px;
+}
+
+#wrapper {
+    width: 500px;
+    margin: 150px auto;
+}
